@@ -1,0 +1,72 @@
+{
+  "id": ,
+  "name": "",
+  "tagline": "",
+  "first_brewed": "",
+  "description": "",
+  "image_url": "",
+  "abv": ,
+  "ibu": ,
+  "target_fg": ,
+  "target_og": ,
+  "ebc": ,
+  "srm": ,
+  "ph": ,
+  "attenuation_level": ,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": ,
+          "unit": "celsius"
+        },
+        "duration":
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": ,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "",
+        "amount": {
+          "value": ,
+          "unit": "kilograms"
+        }
+      },
+
+    ],
+    "hops": [
+      {
+        "name": "",
+        "amount": {
+          "value": ,
+          "unit": "grams"
+        },
+        "add": "",
+        "attribute": ""
+      },
+
+    ],
+    "yeast": ""
+  },
+  "food_pairing": [
+
+  ],
+  "brewers_tips": "",
+  "contributed_by": ""
+}
