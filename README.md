@@ -8,12 +8,6 @@ You can find the API at https://punkapi.com and it's completely free!
 
 If you are looking for the source code for the server that powers https://punkapi.com head over to [samjbmason/punkapi-server](https://github.com/samjbmason/punkapi-server)
 
-## What's the deal?
-
-This repo contains all the individual files for each recipe in the DIY Dog pdf ([`data`](data/)). It also contains a singular JSON file [`data.json`](data.json) that contains all the recipes in one single file.
-
-It's the `data.json` file that actually powers the punkapi API.
-
 ## Installation
 
 ```
