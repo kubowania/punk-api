@@ -1,0 +1,709 @@
+[
+    {
+        "id": 132,
+        "name": "5am Saint",
+        "tagline": "Bittersweet Chaos. Malty. Fruity. Bite.",
+        "first_brewed": "06/2009",
+        "description": "Out of order and stability comes the rush of the pack. Berry and caramel riding alongside marmalade and chocolate. Spice and toast jostle with lychee and biscuit. The needle flicks to all points of the compass. It drives you towards the horizon, towards the vanishing point. And it keeps going...",
+        "image_url": "https://images.punkapi.com/v2/132.png",
+        "abv": 5,
+        "ibu": 30,
+        "target_fg": 1012,
+        "target_og": 1050,
+        "ebc": 60,
+        "srm": 30.5,
+        "ph": 4.4,
+        "attenuation_level": 76,
+        "volume": {
+            "value": 20,
+            "unit": "litres"
+        },
+        "boil_volume": {
+            "value": 25,
+            "unit": "litres"
+        },
+        "method": {
+            "mash_temp": [
+                {
+                    "temp": {
+                        "value": 62,
+                        "unit": "celsius"
+                    },
+                    "duration": 75
+                }
+            ],
+            "fermentation": {
+                "temp": {
+                    "value": 19,
+                    "unit": "celsius"
+                }
+            },
+            "twist": null
+        },
+        "ingredients": {
+            "malt": [
+                {
+                    "name": "Extra Pale",
+                    "amount": {
+                        "value": 2.56,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Caramalt",
+                    "amount": {
+                        "value": 0.88,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Munich",
+                    "amount": {
+                        "value": 0.63,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Crystal 150",
+                    "amount": {
+                        "value": 0.38,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Dark Crystal",
+                    "amount": {
+                        "value": 0.13,
+                        "unit": "kilograms"
+                    }
+                }
+            ],
+            "hops": [
+                {
+                    "name": "Cascade",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Amarillo",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Nelson Sauvin",
+                    "amount": {
+                        "value": 2.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Amarillo",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Nelson Sauvin",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Simcoe",
+                    "amount": {
+                        "value": 25,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Cascade",
+                    "amount": {
+                        "value": 50,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Ahtanum",
+                    "amount": {
+                        "value": 25,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Nelson Sauvin",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Centennial",
+                    "amount": {
+                        "value": 50,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Amarillo",
+                    "amount": {
+                        "value": 25,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                }
+            ],
+            "yeast": "Wyeast 1056 - American Ale™"
+        },
+        "food_pairing": [
+            "Cheddar cheese melt on crisp rye toast",
+            "Moroccan chicken tangine",
+            "Cheesecake topped with kiwi"
+        ],
+        "brewers_tips": "Go easy on the crystal and dark crystal malt. Too much will skew the flavour profile away from lychees and citrus towards dried fruit.",
+        "contributed_by": "Sam Mason <samjbmason>"
+    },
+    {
+        "id": 231,
+        "name": "Ace Of Chinook",
+        "tagline": "Single-Hopped Session IPA.",
+        "first_brewed": "01/2016",
+        "description": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone builds to intense resinous pine with pithy citrus notes, culminating in a grapefruit hit and a long bitter finish. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+        "image_url": "https://images.punkapi.com/v2/231.png",
+        "abv": 4.5,
+        "ibu": 40,
+        "target_fg": 1011,
+        "target_og": 1045,
+        "ebc": 18,
+        "srm": 9,
+        "ph": 4.2,
+        "attenuation_level": 75.6,
+        "volume": {
+            "value": 20,
+            "unit": "litres"
+        },
+        "boil_volume": {
+            "value": 25,
+            "unit": "litres"
+        },
+        "method": {
+            "mash_temp": [
+                {
+                    "temp": {
+                        "value": 65,
+                        "unit": "celsius"
+                    },
+                    "duration": 75
+                }
+            ],
+            "fermentation": {
+                "temp": {
+                    "value": 19,
+                    "unit": "celsius"
+                }
+            },
+            "twist": null
+        },
+        "ingredients": {
+            "malt": [
+                {
+                    "name": "Pale Ale",
+                    "amount": {
+                        "value": 2.3,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Maris Otter",
+                    "amount": {
+                        "value": 1.3,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Caramalt",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "kilograms"
+                    }
+                }
+            ],
+            "hops": [
+                {
+                    "name": "Chinook",
+                    "amount": {
+                        "value": 3.75,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Chinook",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Chinook",
+                    "amount": {
+                        "value": 37.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Chinook",
+                    "amount": {
+                        "value": 187.5,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                }
+            ],
+            "yeast": "Wyeast 1056 - American Ale™"
+        },
+        "food_pairing": [
+            "Cheese covered tater tots",
+            "Chicago style hot dog",
+            "Beignet"
+        ],
+        "brewers_tips": "Use whole leaf hops for the dry hopping. They’re much easier to get out.",
+        "contributed_by": "Matt Ball <GeordieMatt>"
+    },
+    {
+        "id": 233,
+        "name": "Ace Of Citra",
+        "tagline": "Single-Hopped Session IPA.",
+        "first_brewed": "01/2016",
+        "description": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone layered with berry and resin, culminating with a lime zest hit and an explosive bitter citrus finish. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+        "image_url": "https://images.punkapi.com/v2/233.png",
+        "abv": 4.5,
+        "ibu": 40,
+        "target_fg": 1011,
+        "target_og": 1045,
+        "ebc": 18,
+        "srm": 9,
+        "ph": 4.2,
+        "attenuation_level": 75.6,
+        "volume": {
+            "value": 20,
+            "unit": "litres"
+        },
+        "boil_volume": {
+            "value": 25,
+            "unit": "litres"
+        },
+        "method": {
+            "mash_temp": [
+                {
+                    "temp": {
+                        "value": 65,
+                        "unit": "celsius"
+                    },
+                    "duration": 75
+                }
+            ],
+            "fermentation": {
+                "temp": {
+                    "value": 19,
+                    "unit": "celsius"
+                }
+            },
+            "twist": null
+        },
+        "ingredients": {
+            "malt": [
+                {
+                    "name": "Pale Ale",
+                    "amount": {
+                        "value": 2.3,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Maris Otter",
+                    "amount": {
+                        "value": 1.3,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Caramalt",
+                    "amount": {
+                        "value": 0.5,
+                        "unit": "kilograms"
+                    }
+                }
+            ],
+            "hops": [
+                {
+                    "name": "Citra",
+                    "amount": {
+                        "value": 3.75,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Citra",
+                    "amount": {
+                        "value": 12.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Citra",
+                    "amount": {
+                        "value": 37.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Citra",
+                    "amount": {
+                        "value": 187.5,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                }
+            ],
+            "yeast": "Wyeast 1056 - American Ale™"
+        },
+        "food_pairing": [
+            "Courgette fries",
+            "Curried sea bass",
+            "Pistachio layer cake"
+        ],
+        "brewers_tips": "Let the wort sit for 30 minutes after flameout before cooling to get the most out of that last hop addition.",
+        "contributed_by": "Matt Ball <GeordieMatt>"
+    },
+    {
+        "id": 37,
+        "name": "Zephyr",
+        "tagline": "There’s A Storm Brewing.",
+        "first_brewed": "10/2008",
+        "description": "A 9.2% Double IPA aged for 21 months in a 1965 Invergordon cask with 30 kg of fresh highland strawberries. This beer is a riot of whisky, caramel and strawberry, all tempered by a toe curling bitterness enducing rapture in all who taste it. Who needs champagne?",
+        "image_url": "https://images.punkapi.com/v2/37.png",
+        "abv": 12.5,
+        "ibu": 125,
+        "target_fg": 1016,
+        "target_og": 1087,
+        "ebc": 40,
+        "srm": 20,
+        "ph": 4.4,
+        "attenuation_level": 81.2,
+        "volume": {
+            "value": 20,
+            "unit": "litres"
+        },
+        "boil_volume": {
+            "value": 25,
+            "unit": "litres"
+        },
+        "method": {
+            "mash_temp": [
+                {
+                    "temp": {
+                        "value": 65,
+                        "unit": "celsius"
+                    },
+                    "duration": 75
+                }
+            ],
+            "fermentation": {
+                "temp": {
+                    "value": 21,
+                    "unit": "celsius"
+                }
+            },
+            "twist": "Oak chips: 15g, Fresh strawberries: 3kg"
+        },
+        "ingredients": {
+            "malt": [
+                {
+                    "name": "Extra Pale",
+                    "amount": {
+                        "value": 6.3,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Caramalt",
+                    "amount": {
+                        "value": 0.38,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Crystal 150",
+                    "amount": {
+                        "value": 0.29,
+                        "unit": "kilograms"
+                    }
+                }
+            ],
+            "hops": [
+                {
+                    "name": "Columbus Extract",
+                    "amount": {
+                        "value": 31,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Columbus",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "start",
+                    "attribute": "bitter"
+                },
+                {
+                    "name": "Columbus",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Centennial",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Simcoe",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "middle",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Columbus",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Centennial",
+                    "amount": {
+                        "value": 19.5,
+                        "unit": "grams"
+                    },
+                    "add": "end",
+                    "attribute": "flavour"
+                },
+                {
+                    "name": "Centennial",
+                    "amount": {
+                        "value": 115.5,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Columbus",
+                    "amount": {
+                        "value": 96,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Simcoe",
+                    "amount": {
+                        "value": 96,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                },
+                {
+                    "name": "Amarillo",
+                    "amount": {
+                        "value": 77,
+                        "unit": "grams"
+                    },
+                    "add": "dry hop",
+                    "attribute": "aroma"
+                }
+            ],
+            "yeast": "Wyeast 1272 - American Ale II™"
+        },
+        "food_pairing": [
+            "Poached eggs and smoked salmon",
+            "Salt and pepper squid",
+            "Key Lime Pie"
+        ],
+        "brewers_tips": "Rack into a secondary fermenter and add your strawberries. Use a blow-off rather than an airlock as the fermentation can get pretty wild as the yeast starts using the sugar from the strawberries.",
+        "contributed_by": "Sam Mason <samjbmason>"
+    },
+    {
+        "id": 325,
+        "name": "Zipcode",
+        "tagline": "Pilsner.",
+        "first_brewed": "2018",
+        "description": "A new 5% Pilsner, that feaures in Fanzine, our new subscription model.",
+        "image_url": null,
+        "abv": 5,
+        "ibu": 37,
+        "target_fg": 1006,
+        "target_og": 1044,
+        "ebc": 5,
+        "srm": 3,
+        "ph": 4.4,
+        "attenuation_level": 86,
+        "volume": {
+            "value": 20,
+            "unit": "litres"
+        },
+        "boil_volume": {
+            "value": 25,
+            "unit": "litres"
+        },
+        "method": {
+            "mash_temp": [
+                {
+                    "temp": {
+                        "value": 50,
+                        "unit": "celsius"
+                    },
+                    "duration": 50
+                }
+            ],
+            "fermentation": {
+                "temp": {
+                    "value": 11,
+                    "unit": "celsius"
+                }
+            },
+            "twist": null
+        },
+        "ingredients": {
+            "malt": [
+                {
+                    "name": "Pilsner",
+                    "amount": {
+                        "value": 3.54,
+                        "unit": "kilograms"
+                    }
+                },
+                {
+                    "name": "Carapils",
+                    "amount": {
+                        "value": 0.24,
+                        "unit": "kilograms"
+                    }
+                }
+            ],
+            "hops": [
+                {
+                    "name": "Magnum",
+                    "amount": {
+                        "value": 12,
+                        "unit": "grams"
+                    },
+                    "add": "70",
+                    "attribute": "Bittering"
+                },
+                {
+                    "name": "Spalter",
+                    "amount": {
+                        "value": 15,
+                        "unit": "grams"
+                    },
+                    "add": "30",
+                    "attribute": "Flavour"
+                },
+                {
+                    "name": "Spalter",
+                    "amount": {
+                        "value": 15,
+                        "unit": "grams"
+                    },
+                    "add": "10",
+                    "attribute": "Flavour"
+                },
+                {
+                    "name": "Saphire",
+                    "amount": {
+                        "value": 30,
+                        "unit": "grams"
+                    },
+                    "add": "0",
+                    "attribute": "Aroma"
+                },
+                {
+                    "name": "Saphire",
+                    "amount": {
+                        "value": 30,
+                        "unit": "grams"
+                    },
+                    "add": "Dry Hop",
+                    "attribute": "Aroma"
+                }
+            ],
+            "yeast": "Saflager W-34/70"
+        },
+        "food_pairing": [
+            "Goat's cheese salad",
+            "Pesto pasta",
+            "Lemon cookies"
+        ],
+        "brewers_tips": "Saphir hops are not widespread at the moment if you cannot get hold of any, a good batch of Mittlefruh is a fair substitute.",
+        "contributed_by": "John Jenkman <johnjenkman>"
+    }
+]
